@@ -59,14 +59,14 @@ export class LiteGraphGlobal {
   NODE_DEFAULT_SHAPE = RenderShape.ROUND
   NODE_BOX_OUTLINE_COLOR = '#FFF'
   NODE_ERROR_COLOUR = '#E00'
-  NODE_FONT = 'Arial'
+  NODE_FONT = 'Courier'
 
-  DEFAULT_FONT = 'Arial'
+  DEFAULT_FONT = 'Courier'
   DEFAULT_SHADOW_COLOR = 'rgba(0,0,0,0.5)'
 
   DEFAULT_GROUP_FONT = 24
   DEFAULT_GROUP_FONT_SIZE?: any
-  GROUP_FONT = 'Arial'
+  GROUP_FONT = 'Courier'
 
   WIDGET_BGCOLOR = '#222'
   WIDGET_OUTLINE_COLOR = '#666'

@@ -5988,7 +5988,7 @@ export class LGraphCanvas
         ctx.lineWidth = 4
         ctx.fillStyle = 'white'
         ctx.strokeStyle = 'black'
-        ctx.font = '16px Arial'
+        ctx.font = '16px Courier'
 
         const text = String(linkSegment.id)
         const { width, actualBoundingBoxAscent } = ctx.measureText(text)
